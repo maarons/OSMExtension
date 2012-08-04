@@ -1,0 +1,13 @@
+<widget xmlns="http://www.w3.org/ns/widgets"
+        id="https://github.com/maarons/OSMExtension"
+        version="2.0">
+  <author>Marek Sapota</author>
+  <name>OpenStreetMap</name>
+  <description>Displays and searches OpenStreetMap.</description>
+  <license href="COPYING">X11</license>
+  <icon src="opera/osm-logo-128.png" height="128" width="128"/>
+  <content src="opera/opera.html"/>
+  <access origin="http://openstreetmap.org" subdomains="true"/>
+  <access origin="http://cdn.leafletjs.com" subdomains="false"/>
+  <access origin="http://code.jquery.com" subdomains="false"/>
+</widget>

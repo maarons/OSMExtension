@@ -1,0 +1,15 @@
+{
+  "manifest_version": 2,
+  "name": "OpenStreetMap",
+  "version": "2.0",
+  "description": "Displays and searches OpenStreetMap.",
+  "icons": { "128": "chromium/osm-logo-128.png" },
+  "browser_action": {
+    "default_icon": "chromium/osm-logo-19.png",
+    "default_title": "OpenStreetMap",
+    "default_popup": "src/map.html"
+  },
+  "permissions": [
+    "geolocation"
+  ]
+}

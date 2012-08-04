@@ -1,0 +1,11 @@
+{
+  "name": "openstreetmap",
+  "fullName": "OpenStreetMap",
+  "description": "Displays and searches OpenStreetMap.",
+  "author": "Marek Sapota",
+  "license": "X11",
+  "version": "2.0",
+  "lib": "firefox",
+  "icon": "firefox/osm-logo-128.png",
+  "id": "jid1-xQFVvm5i0G6UqQ"
+}
